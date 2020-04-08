@@ -16,7 +16,7 @@ public class March4 {
 //        amazonTest();
         wikiTest();
     }
-
+   //alalo
     /**
      * Go to ebay --->          driver.get("http://ebay.com");
      * enter search term        input.sendKeys("java book");
